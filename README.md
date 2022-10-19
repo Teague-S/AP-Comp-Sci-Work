@@ -1,6 +1,17 @@
 # AP-Comp-Sci-Work
 Some examples of the work I did in AP Comp Sci A
 
+## Unit 9 
+
+### 9.5.9
+Calculates your average grade of your inputted assignments. 
+
+### 9.6.9
+Creating shapes and utilizing overriden methods and class children. 
+
+### 9.7.9
+Compares the values in a 2d array to see if they are identical. 
+
 ## Unit 10
 
 ### 10.1.8
