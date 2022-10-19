@@ -1,6 +1,11 @@
 # AP-Comp-Sci-Work
 Some examples of the work I did in AP Comp Sci A
 
+## Unit 8 
+
+### 8.2.9
+A console game of Tic-Tac-Toe.
+
 ## Unit 9 
 
 ### 9.5.9
